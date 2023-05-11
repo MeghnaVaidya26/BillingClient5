@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Billing Processor</string>
+    <string name="continue_string">Continue</string>
+
+    <string name="restore">Restore</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="text_privacy_policy">Privacy Policy</string>
+    <string name="textterms_of_use">Terms Of Use</string>
+    <string name="restore_purchase">Restore Purchase</string>
+
+    <string name="no_internet_connection">No internet connection</string>
+
+    <string name="try_and_subscribe">Try Free and Subscribe</string>
+
+    <string name="subscription_is_restored">Subscription is restored!</string>
+    <string name="subscription_is_active">Subscription is already active !</string>
+    <string name="you_are_subscribed">You are subscribed!</string>
+    <string name="no_active_subscription">No active subscribtion!Please subscribe.</string>
+
+</resources>
